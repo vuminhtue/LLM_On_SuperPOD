@@ -5,3 +5,5 @@ Workshop on using LLMs on SuperPOD using HuggingFace and Ollama
 - How to use **VSCode/Cursor** with Jupyter notebook on SuperPOD
 - Basic HuggingFace
 - Basic Ollama
+- Basic VLLM
+- Basic SGLang 
